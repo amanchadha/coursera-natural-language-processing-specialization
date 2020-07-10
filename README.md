@@ -42,17 +42,57 @@ Enjoy!
 
 ### Course 1: Natural Language Processing with Classification and Vector Spaces
 
-  - Week 1: [Logistic Regression](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
-  - Week 2: [Naive Bayes](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1_W2_Assignment.ipynb)
-  - Week 3: [Word Embeddings: Hello Vectors]()
-  - Week 4: [Word Translation]()
+  - Week 1: 
+    - Assignment: [Logistic Regression](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
+    - Labs: 
+      - [Natural language Preprocessing]()
+      - [Visualizing word frequencies]()
+      - [Visualizing tweets and Logistic Regression models]()
+  - Week 2: 
+    - Assignment: [Naive Bayes](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1_W2_Assignment.ipynb)
+    - Labs:
+      - []()
+      - []()
+      - []()                 
+  - Week 3: 
+    - Assignment: [Word Embeddings: Hello Vectors](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1_W3_Assignment.ipynb)
+    - Labs:
+      - []()
+      - []()
+      - []()                
+  - Week 4: 
+    - Assignment: [Word Translation]()
+    - Labs: 
+      - []()
+      - []()
+      - []()                 
 
 ### Course 2: Natural Language Processing with Probabilistic Models
 
-  - Week 1: [Autocorrect]()
-  - Week 2: [Part of Speech Tagging]()
-  - Week 3: [Autocomplete]()
-  - Week 4: [Word Embeddings]()
+  - Week 1: 
+    - Assignment: [Autocorrect]()
+    - Labs: 
+      - []()
+      - []()
+      - []()                   
+  - Week 2: 
+    - Assignment: [Part of Speech Tagging]()
+    - Labs: 
+      - []()
+      - []()
+      - []()                   
+  - Week 3: 
+    - Assignment: [Autocomplete]()
+    - Labs: 
+      - []()
+      - []()
+      - []()                
+  - Week 4: 
+    - Assignment: [Word Embeddings]()
+    - Labs: 
+      - []()
+      - []()             
+      - []()
 
 ### Course 3: Natural Language Processing with Sequence Models
 
