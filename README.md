@@ -6,7 +6,7 @@ Programming assignments and quizzes from all courses in the Coursera [Natural La
 
 ## Credits
 
-This repo contains my work for this specialization. The code base, quiz questions, screenshots, and images, are taken from, unless specified, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing).
+This repo contains my work for this specialization. The code base, quiz questions, screenshots, and images, are taken from the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing), unless specified otherwise.
 
 ## Courses
 
