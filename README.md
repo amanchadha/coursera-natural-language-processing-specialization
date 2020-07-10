@@ -42,17 +42,17 @@ Enjoy!
 
 ### Course 1: Natural Language Processing with Classification and Vector Spaces
 
-  - [Week 1: Logistic Regression]()
-  - [Week 2: Naive Bayes]()
-  - [Week 3: Word Embeddings: Hello Vectors]()
-  - [Week 4: Word Translation]()
+  - Week 1: [Logistic Regression](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
+  - Week 2: [Naive Bayes](https://github.com/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1_W2_Assignment.ipynb)
+  - Week 3: [Word Embeddings: Hello Vectors]()
+  - Week 4: [Word Translation]()
 
 ### Course 2: Natural Language Processing with Probabilistic Models
 
-  - [Week 1: Autocorrect]()
-  - [Week 2: Part of Speech Tagging]()
-  - [Week 3: Autocomplete]()
-  - [Week 4: Word Embeddings]()
+  - Week 1: [Autocorrect]()
+  - Week 2: [Part of Speech Tagging]()
+  - Week 3: [Autocomplete]()
+  - Week 4: [Word Embeddings]()
 
 ### Course 3: Natural Language Processing with Sequence Models
 
