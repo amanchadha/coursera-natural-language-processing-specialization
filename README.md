@@ -43,23 +43,27 @@ Enjoy!
 ### Course 1: Natural Language Processing with Classification and Vector Spaces
 
   - **Week 1**
-    - Assignment: [Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
+    - Assignment: 
+      - [Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
     - Labs: 
       - [Natural language Preprocessing](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L1_Natural%20language%20preprocessing.ipynb)
       - [Visualizing word frequencies](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L2_Visualizing%20word%20frequencies.ipynb)
       - [Visualizing tweets and Logistic Regression models](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L3_Visualizing%20tweets%20and%20Logistic%20Regression%20models.ipynb)
   - **Week 2**
-    - Assignment: [Naive Bayes](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_A1_Naive%20Bayes.ipynb)
+    - Assignment:
+      - [Naive Bayes](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_A1_Naive%20Bayes.ipynb)
     - Labs:
       - [Visualizing likelihoods and confidence ellipses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_L1_Visualizing%20likelihoods%20and%20confidence%20ellipses.ipynb)
   - **Week 3**
-    - Assignment: [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1_W3_Assignment.ipynb)
+    - Assignment:
+      - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1_W3_Assignment.ipynb)
     - Labs:
       - [Linear algebra in Python with Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L1_Linear%20algebra%20in%20Python%20with%20Numpy.ipynb)
       - [Manipulating word embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L2_Manipulating%20word%20embeddings.ipynb)
       - [Another explanation about PCA](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L3_Another%20explanation%20about%20PCA.ipynb)                
   - **Week 4**
-    - Assignment: [Word Translation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_A1_Word%20Translation.ipynb)
+    - Assignment:
+      - [Word Translation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_A1_Word%20Translation.ipynb)
     - Labs: 
       - [Rotation matrices in R2](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_L1_Rotation%20matrices%20in%20R2.ipynb)
       - [Hash tables](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_L2_Hash%20tables.ipynb)
@@ -67,23 +71,27 @@ Enjoy!
 ### Course 2: Natural Language Processing with Probabilistic Models
 
   - **Week 1**
-    - Assignment: [Autocorrect](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_A1_Autocorrect.ipynb)
+    - Assignment:
+      - [Autocorrect](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_A1_Autocorrect.ipynb)
     - Labs: 
       - [Building the vocabulary](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L1_Building%20the%20vocabulary.ipynb)
       - [Candidates from edits](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
   - **Week 2**
-    - Assignment: [Part of Speech Tagging](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_A1_Part%20of%20Speech%20Tagging.ipynb)
+    - Assignment:
+      - [Part of Speech Tagging](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_A1_Part%20of%20Speech%20Tagging.ipynb)
     - Labs: 
       - [Working with text data](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
       - [Working with tags and Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
   - **Week 3**
-    - Assignment: [Autocomplete](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_A1_Autocomplete.ipynb)
+    - Assignment:
+      - [Autocomplete](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_A1_Autocomplete.ipynb)
     - Labs: 
       - [Corpus preprocessing for N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L1_Corpus%20preprocessing%20for%20N-grams.ipynb)
       - [Building the language model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L2_Building%20the%20language%20model.ipynb)
       - [Language model generalization](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L3_Language%20model%20generalization.ipynb)                
   - **Week 4**
-    - Assignment: [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_A1_Word%20Embeddings.ipynb)
+    - Assignment:
+      - [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_A1_Word%20Embeddings.ipynb)
     - Labs: 
       - [Data Preparation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L1_Data%20Preparation.ipynb)
       - [Intro to CBOW model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
