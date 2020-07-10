@@ -97,7 +97,7 @@ Enjoy!
       - [Intro to CBOW model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
       - [Training the CBOW model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L3_Training%20the%20CBOW%20model.ipynb)
       - [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L4_Word%20Embeddings.ipynb)
-      - [Word embeddings step by step](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L5_Word%20embeddings%20step%20by%20step.ipynb)
+      - [Word Embeddings Step by Step](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L5_Word%20Embeddings%20Step%20by%20Step.ipynb)
 
 ### Course 3: Natural Language Processing with Sequence Models
 
