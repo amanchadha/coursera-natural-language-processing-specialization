@@ -44,7 +44,7 @@ Enjoy!
 
   - **Week 1**
     - Assignment: 
-      - [Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
+      - [Sentiment Analysis with Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
     - Labs: 
       - [Natural language Preprocessing](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L1_Natural%20language%20preprocessing.ipynb)
       - [Visualizing word frequencies](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L2_Visualizing%20word%20frequencies.ipynb)
