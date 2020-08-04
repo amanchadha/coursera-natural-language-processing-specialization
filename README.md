@@ -2,7 +2,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQE9PsQ0g2DQcg/feedshare-shrink_2048_1536/0?e=1596672000&v=beta&t=zdcgLD-5bzvssABM4NMKtU41kJW9YW4T0HK_nh3U47A)
 
-Programming assignments and quizzes from all courses in the Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by `deeplearning.ai`.
+Programming assignments from all courses in the Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by `deeplearning.ai`.
 
 ## Credits
 
