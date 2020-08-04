@@ -56,7 +56,7 @@ Enjoy!
       - [Visualizing likelihoods and confidence ellipses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_L1_Visualizing%20likelihoods%20and%20confidence%20ellipses.ipynb)
   - **Week 3**
     - Assignment:
-      - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1_W3_Assignment.ipynb)
+      - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_A1_Word%20Embeddings.ipynb)
     - Labs:
       - [Linear algebra in Python with Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L1_Linear%20algebra%20in%20Python%20with%20Numpy.ipynb)
       - [Manipulating word embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L2_Manipulating%20word%20embeddings.ipynb)
