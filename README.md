@@ -103,7 +103,7 @@ Enjoy!
 
   - **Week 1**
     - Assignment:
-      - [Sentiment with Deep Neural Networks](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_A1_Autocorrect.ipynb)
+      - [Sentiment with Deep Neural Networks](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_A1_Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
     - Labs: 
       - [Introduction to Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L1_Building%20the%20vocabulary.ipynb)
       - [Classes and Subclasses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
