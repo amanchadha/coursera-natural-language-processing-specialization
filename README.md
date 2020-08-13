@@ -2,7 +2,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQE9PsQ0g2DQcg/feedshare-shrink_2048_1536/0?e=1596672000&v=beta&t=zdcgLD-5bzvssABM4NMKtU41kJW9YW4T0HK_nh3U47A)
 
-Programming assignments and quizzes from all courses in the Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by `deeplearning.ai`.
+Programming assignments from all courses in the Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by `deeplearning.ai`.
 
 ## Credits
 
@@ -44,7 +44,7 @@ Enjoy!
 
   - **Week 1**
     - Assignment: 
-      - [Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
+      - [Sentiment Analysis with Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
     - Labs: 
       - [Natural language Preprocessing](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L1_Natural%20language%20preprocessing.ipynb)
       - [Visualizing word frequencies](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L2_Visualizing%20word%20frequencies.ipynb)
@@ -56,7 +56,7 @@ Enjoy!
       - [Visualizing likelihoods and confidence ellipses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_L1_Visualizing%20likelihoods%20and%20confidence%20ellipses.ipynb)
   - **Week 3**
     - Assignment:
-      - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1_W3_Assignment.ipynb)
+      - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_A1_Word%20Embeddings.ipynb)
     - Labs:
       - [Linear algebra in Python with Numpy](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L1_Linear%20algebra%20in%20Python%20with%20Numpy.ipynb)
       - [Manipulating word embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_L2_Manipulating%20word%20embeddings.ipynb)
