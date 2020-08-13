@@ -10,12 +10,12 @@ This repo contains my work for this specialization. The code base, quiz question
 
 ## Courses
 
-The [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera contains four course:
+The [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera contains four courses:
 
 - Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 - Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
-- Course 3: [Natural Language Processing with Sequence Models]()
-- Course 4: [Natural Language Processing with Attention Models]()
+- Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+- Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
 ## Specialization Info
 
