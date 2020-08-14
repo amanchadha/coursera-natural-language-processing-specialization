@@ -124,7 +124,7 @@ Enjoy!
   - **Week 4**
     - Assignment:
       - [Question duplicates](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_A1_Question%20duplicates.ipynb)
-    - Labs: https://github.com/amanchadha/coursera-natural-language-processing-specialization/
+    - Labs:
       - [Creating a Siamese Model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L1_Creating%20a%20Siamese%20Model%20using%20Trax.ipynb)
       - [Modified Triplet Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L2_Modified%20Triplet%20Loss.ipynb)             
       - [Evaluate a Siamese Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L3_Evaluate%20a%20Siamese%20Model.ipynb)             
