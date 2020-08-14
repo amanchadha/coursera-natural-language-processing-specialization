@@ -110,7 +110,7 @@ Enjoy!
       - [Data Generators](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L3_Data%20Generators.ipynb)
   - **Week 2**
     - Assignment:
-      - [Deep N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
+      - [Deep N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_A1_Deep%20N-grams.ipynb)
     - Labs: 
       - [Hidden State Activation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L1_Hidden_State_Activation.ipynb)
       - [Working with JAX NumPy and Calculating Perplexity](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L2_Working%20with%20JAX%20NumPy%20and%20Calculating%20Perplexity.ipynb)
