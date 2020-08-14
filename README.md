@@ -130,3 +130,5 @@ Enjoy!
       - [Evaluate a Siamese Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L3_Evaluate%20a%20Siamese%20Model.ipynb)             
 
 ### Course 4: Natural Language Processing with Attention Models
+
+  - Awaiting course.
