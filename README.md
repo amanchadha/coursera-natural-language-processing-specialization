@@ -114,7 +114,7 @@ Enjoy!
     - Labs: 
       - [Hidden State Activation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L1_Hidden_State_Activation.ipynb)
       - [Working with JAX NumPy and Calculating Perplexity](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L2_Working%20with%20JAX%20NumPy%20and%20Calculating%20Perplexity.ipynb)
-      - [Vanilla RNNs, GRUs and the scan function]()
+      - [Vanilla RNNs, GRUs and the scan function](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L3_Vanilla%20RNNs%2C%20GRUs%20and%20the%20scan%20function.ipynb)
       - [Creating a GRU model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L4_Creating%20a%20GRU%20model%20using%20Trax.ipynb)
   - **Week 3**
     - Assignment:
