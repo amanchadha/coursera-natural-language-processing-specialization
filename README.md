@@ -104,29 +104,29 @@ Enjoy!
   - **Week 1**
     - Assignment:
       - [Sentiment with Deep Neural Networks](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_A1_Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
-    - Labs: 
-      - [Introduction to Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L1_Building%20the%20vocabulary.ipynb)
-      - [Classes and Subclasses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
-      - [Data Generators](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
+    - Labs:
+      - [Introduction to Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L1_Introduction%20to%20Trax.ipynb)
+      - [Classes and Subclasses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L2_Classes%20and%20Subclasses.ipynb)
+      - [Data Generators](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L3_Data%20Generators.ipynb)
   - **Week 2**
     - Assignment:
-      - [Deep N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_A1_Part%20of%20Speech%20Tagging.ipynb)
+      - [Deep N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
     - Labs: 
-      - [Hidden State Activation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
-      - [Working with JAX NumPy and Calculating Perplexity](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
-      - [Vanilla RNNs, GRUs and the scan function](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
-      - [Creating a GRU model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
+      - [Hidden State Activation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L1_Hidden_State_Activation.ipynb)
+      - [Working with JAX NumPy and Calculating Perplexity](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L2_Working%20with%20JAX%20NumPy%20and%20Calculating%20Perplexity.ipynb)
+      - [Vanilla RNNs, GRUs and the scan function]()
+      - [Creating a GRU model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L4_Creating%20a%20GRU%20model%20using%20Trax.ipynb)
   - **Week 3**
     - Assignment:
-      - [Named Entity Recognition (NER)](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_A1_Autocomplete.ipynb)
+      - [Named Entity Recognition (NER)](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/C3W3_A1_Named%20Entity%20Recognition.ipynb)
     - Labs: 
-      - [Vanishing Gradients](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L1_Corpus%20preprocessing%20for%20N-grams.ipynb)
+      - [Vanishing Gradients](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/C3W3_L1_Vanishing%20Gradients.ipynb)
   - **Week 4**
     - Assignment:
-      - [Question duplicates](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_A1_Word%20Embeddings.ipynb)
-    - Labs: 
-      - [Creating a Siamese Model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L1_Data%20Preparation.ipynb)
-      - [Modified Triplet Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
-      - [Evaluate a Siamese Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
+      - [Question duplicates](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_A1_Question%20duplicates.ipynb)
+    - Labs: https://github.com/amanchadha/coursera-natural-language-processing-specialization/
+      - [Creating a Siamese Model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L1_Creating%20a%20Siamese%20Model%20using%20Trax.ipynb)
+      - [Modified Triplet Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L2_Modified%20Triplet%20Loss.ipynb)             
+      - [Evaluate a Siamese Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L3_Evaluate%20a%20Siamese%20Model.ipynb)             
 
 ### Course 4: Natural Language Processing with Attention Models
