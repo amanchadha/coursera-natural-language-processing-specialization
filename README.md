@@ -131,4 +131,28 @@ Enjoy!
 
 ### Course 4: Natural Language Processing with Attention Models
 
-  - Awaiting course.
+  - **Week 1**
+    - Assignment:
+      - [NMT with Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_A1_NMT_with_Attention.ipynb)
+    - Labs:
+      - [Stack Semantics](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_L1_Ungraded_Lab_Stack_Semantics.ipynb)
+      - [BLEU Score](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_L2_Ungraded_Lab_Bleu_Score)
+  - **Week 2**
+    - Assignment:
+      - [Transformer Summarizer](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_A1_Transformer_Summarizer.ipynb)
+    - Labs: 
+      - [Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_L1_Attention.ipynb)
+      - [The Transformer Decoder](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_L2_Transformer_Decoder.ipynb)
+  - **Week 3**
+    - Assignment:
+      - [Question Answering](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_A1_Question_Answering.ipynb)
+    - Labs: 
+      - [SentencePiece and BPE](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L1_SentencePiece_and_BPE.ipynb)
+      - [BERT Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L2_BERT_Loss.ipynb)
+      - [T5](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L3_T5.ipynb)      
+  - **Week 4**
+    - Assignment:
+      - [Chatbot](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_A1_Chatbot.ipynb)
+    - Labs:
+      - [Reformer LSH](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L1_Ungraded_Lab_Reformer_LSH.ipynb)
+      - [Revnet](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L2_Ungraded_Lab_Revnet.ipynb)
