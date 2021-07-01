@@ -154,3 +154,7 @@ Enjoy!
     - Labs:
       - [Reformer LSH](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L1_Ungraded_Lab_Reformer_LSH.ipynb)
       - [Revnet](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L2_Ungraded_Lab_Revnet.ipynb)
+      
+## Disclaimer
+
+I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions.
